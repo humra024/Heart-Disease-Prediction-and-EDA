@@ -2,8 +2,8 @@
 Related Links: 
 1. App Link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
 2. Tableau Dashboard: https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link
-3. Presentation Report: 
-4. heart_disease_app Github Repository: https://github.com/humra024/Heart-Disease-Prediction-and-EDA
+3. Presentation Report: https://github.com/humra024/Heart-Disease-Prediction-and-EDA/blob/main/heart%20disease%20analysis%20report.pdf
+4. heart_disease_app Github Repository: https://github.com/humra024/heart_disease_app
 
 
 -Executed thorough exploratory data analysis on a heart disease dataset, utilizing Python's Pandas,
